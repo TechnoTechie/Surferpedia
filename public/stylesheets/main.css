@@ -72,3 +72,17 @@ img {
   background-position: center;
   height: 500px;
 }
+
+.carousel-5 {
+  background: url(../images/megan.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+
+.megan {
+  background: url(../images/megan.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
