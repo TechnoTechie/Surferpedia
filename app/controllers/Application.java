@@ -7,6 +7,7 @@ import views.html.anastasia;
 import views.html.bill;
 import views.html.kyussk;
 import views.html.Adriano;
+import views.html.Megan;
 
 /**
  * Implements the controllers for this application.
@@ -54,6 +55,11 @@ public class Application extends Controller {
    */
   public static Result kyussk() {
     return ok(kyussk.render("Kyuss King"));
+    
+  }  
+  
+  public static Result Megan() {
+    return ok(Megan.render("Megan Abubo"));
     
   }  
 }
