@@ -1,0 +1,60 @@
+
+
+.header {
+  background-image: url(../images/crystal-surfing.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+}
+
+.anastasia {
+  background: url(../images/anastasia.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 385px;
+}
+
+.bill {
+  background: url(../images/bill.jpg);
+  background-size: cover;
+  background-position: left;
+  height: 385px;
+}
+
+.kyussk {
+  background: url(../images/kyussk.jpg);
+  background-size: cover;
+  background-position: right;
+  height: 385px;
+}
+
+.page-content {
+  padding: 10px;
+  text-align: center;
+}
+
+img {
+  float: left;
+  margin-right: 10px;
+}
+
+.carousel-1 {
+  background: url(../images/anastasia.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+
+.carousel-2 {
+  background: url(../images/bill.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+
+.carousel-3 {
+  background: url(../images/kyussk.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}

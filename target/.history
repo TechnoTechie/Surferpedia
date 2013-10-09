@@ -1,0 +1,10 @@
+play
+compile
+clean
+compile
+clean
+compile
+eclipse
+clean
+compile
+run
