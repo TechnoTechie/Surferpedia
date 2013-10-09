@@ -1,3 +1,3 @@
 [0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/Users/TechnoTechie/git/surferpedia/conf/application.conf,/Users/TechnoTechie/git/surferpedia/target/scala-2.10/classes/application.conf)[0m
-[0m[[0mdebug[0m] [0m	(/Users/TechnoTechie/git/surferpedia/conf/routes,/Users/TechnoTechie/git/surferpedia/target/scala-2.10/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Andrew\Documents\GitHub\Surferpedia\conf\application.conf,C:\Users\Andrew\Documents\GitHub\Surferpedia\target\scala-2.10\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Andrew\Documents\GitHub\Surferpedia\conf\routes,C:\Users\Andrew\Documents\GitHub\Surferpedia\target\scala-2.10\classes\routes)[0m

@@ -58,10 +58,10 @@ Seq[Any](format.raw/*1.19*/("""
 }
                 /*
                     -- GENERATED --
-                    DATE: Tue Oct 08 19:45:53 HST 2013
-                    SOURCE: /Users/TechnoTechie/git/surferpedia/app/views/kyussk.scala.html
-                    HASH: f5b71d8ab35d02c6f0c898736329cfcd6734de07
-                    MATRIX: 775->1|886->18|922->20|944->34|983->36|2677->1699
+                    DATE: Tue Oct 08 23:41:19 HST 2013
+                    SOURCE: C:/Users/Andrew/Documents/GitHub/Surferpedia/app/views/kyussk.scala.html
+                    HASH: 6d975539915b4f608407ba6f90110d4421914b5f
+                    MATRIX: 775->1|886->18|923->21|945->35|984->37|2696->1718
                     LINES: 26->1|29->1|30->2|30->2|30->2|48->20
                     -- GENERATED --
                 */

@@ -6,6 +6,7 @@ import views.html.Index;
 import views.html.anastasia;
 import views.html.bill;
 import views.html.kyussk;
+import views.html.Adriano;
 
 /**
  * Implements the controllers for this application.
@@ -26,6 +27,15 @@ public class Application extends Controller {
    */
   public static Result anastasia() {
     return ok(anastasia.render("Anastasia Ashley"));
+    
+  }
+  
+  /**
+   * Returns page1, a simple example of a second page to illustrate navigation.
+   * @return The Page1.
+   */
+  public static Result adriano() {
+    return ok(Adriano.render("Adriano de Souza"));
     
   }
  

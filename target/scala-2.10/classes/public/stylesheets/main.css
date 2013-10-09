@@ -28,6 +28,13 @@
   height: 385px;
 }
 
+.adriano {
+  background: url(../images/adriano.jpg);
+  background-size: cover;
+  background-position: right;
+  height: 385px;
+}
+
 .page-content {
   padding: 10px;
   text-align: center;
@@ -54,6 +61,13 @@ img {
 
 .carousel-3 {
   background: url(../images/kyussk.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+
+.carousel-4 {
+  background: url(../images/adriano.jpg);
   background-size: cover;
   background-position: center;
   height: 500px;

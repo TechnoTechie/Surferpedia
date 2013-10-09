@@ -1,6 +1,6 @@
-// @SOURCE:/Users/TechnoTechie/git/surferpedia/conf/routes
-// @HASH:73d9e62c37423a2e27da396d3b75ea5265973b30
-// @DATE:Tue Oct 08 19:45:53 HST 2013
+// @SOURCE:C:/Users/Andrew/Documents/GitHub/Surferpedia/conf/routes
+// @HASH:e70317c3cf2e1b9d7fedaaab72124fa68fc82cb6
+// @DATE:Tue Oct 08 23:41:14 HST 2013
 
 package controllers;
 

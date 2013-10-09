@@ -66,21 +66,22 @@ Seq[Any](format.raw/*1.31*/("""
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Males<b
               class="caret"></b></a>
             <ul class="dropdown-menu" role="menu">
-              <li><a href=""""),_display_(Seq[Any](/*41.29*/routes/*41.35*/.Application.bill())),format.raw/*41.54*/("""">Bill Hamilton</a></li>              
+              <li><a href=""""),_display_(Seq[Any](/*41.29*/routes/*41.35*/.Application.bill())),format.raw/*41.54*/("""">Bill Hamilton</a></li>
+              <li><a href=""""),_display_(Seq[Any](/*42.29*/routes/*42.35*/.Application.adriano())),format.raw/*42.57*/("""">Adriano de Souza</a></li>              
             </ul>
           </li>
             
             <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Females<b
               class="caret"></b></a>
             <ul class="dropdown-menu" role="menu">
-              <li><a href=""""),_display_(Seq[Any](/*48.29*/routes/*48.35*/.Application.anastasia())),format.raw/*48.59*/("""">Anastasia Ashley</a></li>
+              <li><a href=""""),_display_(Seq[Any](/*49.29*/routes/*49.35*/.Application.anastasia())),format.raw/*49.59*/("""">Anastasia Ashley</a></li>
             </ul>
           </li>
           
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Grom bio<b
               class="caret"></b></a>
             <ul class="dropdown-menu" role="menu">
-              <li><a href=""""),_display_(Seq[Any](/*55.29*/routes/*55.35*/.Application.kyussk())),format.raw/*55.56*/("""">Kyuss King</a></li>
+              <li><a href=""""),_display_(Seq[Any](/*56.29*/routes/*56.35*/.Application.kyussk())),format.raw/*56.56*/("""">Kyuss King</a></li>
             </ul>
           </li>
             
@@ -88,7 +89,7 @@ Seq[Any](format.raw/*1.31*/("""
       </div>
     </div>
   </div>
-  """),_display_(Seq[Any](/*63.4*/content)),format.raw/*63.11*/("""
+  """),_display_(Seq[Any](/*64.4*/content)),format.raw/*64.11*/("""
   <!-- Load Bootstrap JavaScript components. HTMLUnit (used in testing) requires JQuery 1.8.3 or below). -->
   <script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
   <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
@@ -106,11 +107,11 @@ Seq[Any](format.raw/*1.31*/("""
 }
                 /*
                     -- GENERATED --
-                    DATE: Tue Oct 08 19:45:53 HST 2013
-                    SOURCE: /Users/TechnoTechie/git/surferpedia/app/views/Main.scala.html
-                    HASH: a17f235e03850c6064b5943d814bc224326d95ac
-                    MATRIX: 778->1|901->30|1275->368|1290->374|1346->408|1435->461|1450->467|1504->499|2736->1695|2751->1701|2792->1720|3132->2024|3147->2030|3193->2054|3519->2344|3534->2350|3577->2371|3731->2490|3760->2497
-                    LINES: 26->1|29->1|40->12|40->12|40->12|41->13|41->13|41->13|69->41|69->41|69->41|76->48|76->48|76->48|83->55|83->55|83->55|91->63|91->63
+                    DATE: Tue Oct 08 23:41:19 HST 2013
+                    SOURCE: C:/Users/Andrew/Documents/GitHub/Surferpedia/app/views/Main.scala.html
+                    HASH: 0a69d1a8c6e444f8ba832cd52de1ebc0176da4a8
+                    MATRIX: 778->1|901->30|1286->379|1301->385|1357->419|1447->473|1462->479|1516->511|2776->1735|2791->1741|2832->1760|2922->1814|2937->1820|2981->1842|3331->2156|3346->2162|3392->2186|3725->2483|3740->2489|3783->2510|3945->2637|3974->2644
+                    LINES: 26->1|29->1|40->12|40->12|40->12|41->13|41->13|41->13|69->41|69->41|69->41|70->42|70->42|70->42|77->49|77->49|77->49|84->56|84->56|84->56|92->64|92->64
                     -- GENERATED --
                 */
             

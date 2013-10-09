@@ -8,3 +8,12 @@ eclipse
 clean
 compile
 run
+clean
+compile
+eclipse
+clean
+compile
+run
+clean
+compile
+run

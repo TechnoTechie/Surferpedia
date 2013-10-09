@@ -37,6 +37,7 @@ Seq[Any](format.raw/*1.19*/("""
           <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
           <li data-target="#carousel-example-generic" data-slide-to="1"></li>
           <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+          <li data-target="#carousel-example-generic" data-slide-to="3"></li>
         </ol>
 
         <!-- Wrapper for slides -->
@@ -61,8 +62,15 @@ Seq[Any](format.raw/*1.19*/("""
               <h3>Kyuss King</h3>
             </div>
           </div>
+          
+          <div class="item">
+            <div class="carousel-4"></div>
+            <div class="carousel-caption">
+              <h3>Adriano de Souza</h3>
+            </div>
+          </div>
         </div>
-
+        
         <!-- Controls -->
         <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev"> <span class="icon-prev"></span>
         </a> <a class="right carousel-control" href="#carousel-example-generic" data-slide="next"> <span
@@ -71,7 +79,7 @@ Seq[Any](format.raw/*1.19*/("""
       </div>
     </div>
   </div>
-""")))})),format.raw/*46.2*/("""
+""")))})),format.raw/*54.2*/("""
 """))}
     }
     
@@ -84,11 +92,11 @@ Seq[Any](format.raw/*1.19*/("""
 }
                 /*
                     -- GENERATED --
-                    DATE: Tue Oct 08 19:45:53 HST 2013
-                    SOURCE: /Users/TechnoTechie/git/surferpedia/app/views/Index.scala.html
-                    HASH: 19a4802345efe57c21555d0bf70ad91055387897
-                    MATRIX: 774->1|885->18|921->20|941->32|980->34|2472->1495
-                    LINES: 26->1|29->1|30->2|30->2|30->2|74->46
+                    DATE: Tue Oct 08 23:51:22 HST 2013
+                    SOURCE: C:/Users/Andrew/Documents/GitHub/Surferpedia/app/views/Index.scala.html
+                    HASH: eb12f90f4acdd86f147d1b9934f1ea2d013e31b3
+                    MATRIX: 774->1|885->18|922->21|942->33|981->35|2813->1836
+                    LINES: 26->1|29->1|30->2|30->2|30->2|82->54
                     -- GENERATED --
                 */
             

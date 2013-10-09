@@ -1,7 +1,9 @@
 [0m[[0mdebug[0m] [0mCopy play resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/Users/TechnoTechie/git/surferpedia/public/images/anastasia.jpg,/Users/TechnoTechie/git/surferpedia/target/scala-2.10/classes/public/images/anastasia.jpg)[0m
-[0m[[0mdebug[0m] [0m	(/Users/TechnoTechie/git/surferpedia/public/images/bill.jpg,/Users/TechnoTechie/git/surferpedia/target/scala-2.10/classes/public/images/bill.jpg)[0m
-[0m[[0mdebug[0m] [0m	(/Users/TechnoTechie/git/surferpedia/public/images/crystal-surfing.jpg,/Users/TechnoTechie/git/surferpedia/target/scala-2.10/classes/public/images/crystal-surfing.jpg)[0m
-[0m[[0mdebug[0m] [0m	(/Users/TechnoTechie/git/surferpedia/public/images/kyussk.jpg,/Users/TechnoTechie/git/surferpedia/target/scala-2.10/classes/public/images/kyussk.jpg)[0m
-[0m[[0mdebug[0m] [0m	(/Users/TechnoTechie/git/surferpedia/public/javascripts/jquery-1.9.0.min.js,/Users/TechnoTechie/git/surferpedia/target/scala-2.10/classes/public/javascripts/jquery-1.9.0.min.js)[0m
-[0m[[0mdebug[0m] [0m	(/Users/TechnoTechie/git/surferpedia/public/stylesheets/main.css,/Users/TechnoTechie/git/surferpedia/target/scala-2.10/classes/public/stylesheets/main.css)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Andrew\Documents\GitHub\Surferpedia\public\screenshot.png,C:\Users\Andrew\Documents\GitHub\Surferpedia\target\scala-2.10\classes\public\screenshot.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Andrew\Documents\GitHub\Surferpedia\public\images\adriano.jpg,C:\Users\Andrew\Documents\GitHub\Surferpedia\target\scala-2.10\classes\public\images\adriano.jpg)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Andrew\Documents\GitHub\Surferpedia\public\images\anastasia.jpg,C:\Users\Andrew\Documents\GitHub\Surferpedia\target\scala-2.10\classes\public\images\anastasia.jpg)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Andrew\Documents\GitHub\Surferpedia\public\images\bill.jpg,C:\Users\Andrew\Documents\GitHub\Surferpedia\target\scala-2.10\classes\public\images\bill.jpg)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Andrew\Documents\GitHub\Surferpedia\public\images\crystal-surfing.jpg,C:\Users\Andrew\Documents\GitHub\Surferpedia\target\scala-2.10\classes\public\images\crystal-surfing.jpg)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Andrew\Documents\GitHub\Surferpedia\public\images\kyussk.jpg,C:\Users\Andrew\Documents\GitHub\Surferpedia\target\scala-2.10\classes\public\images\kyussk.jpg)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Andrew\Documents\GitHub\Surferpedia\public\javascripts\jquery-1.9.0.min.js,C:\Users\Andrew\Documents\GitHub\Surferpedia\target\scala-2.10\classes\public\javascripts\jquery-1.9.0.min.js)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Andrew\Documents\GitHub\Surferpedia\public\stylesheets\main.css,C:\Users\Andrew\Documents\GitHub\Surferpedia\target\scala-2.10\classes\public\stylesheets\main.css)[0m

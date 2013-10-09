@@ -7,6 +7,7 @@ GET     /                           controllers.Application.index()
 GET     /anastasia                  controllers.Application.anastasia()
 GET     /bill                       controllers.Application.bill()
 GET     /kyussk                     controllers.Application.kyussk()
+GET     /adriano                    controllers.Application.adriano()
 
 
 # Map static resources from the /public folder to the /assets URL path
